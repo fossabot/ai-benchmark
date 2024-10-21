@@ -1,6 +1,8 @@
 >Note: This repository is a fork of the original [AI-Benchmark](https://github.com/houseofai/ai-benchmark)
 
 # Intro
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-HAMi%2Fai-benchmark.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-HAMi%2Fai-benchmark?ref=badge_shield)
+
 
 [AI Benchmark Alpha](http://ai-benchmark.com/alpha) is an open source python library for evaluating AI performance of various hardware platforms, including CPUs, GPUs and TPUs. The benchmark is relying on [TensorFlow](https://www.tensorflow.org) machine learning library, and is providing a lightweight and accurate solution for assessing inference and training speed for key Deep Learning models.</br></br>
 
@@ -191,3 +193,7 @@ Please don't interrupt the script
 
 Device Training Score: 56922
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FProject-HAMi%2Fai-benchmark.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FProject-HAMi%2Fai-benchmark?ref=badge_large)
